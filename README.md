@@ -1,7 +1,7 @@
 Generative Adversarial Networks
 ===============================
 
-Hello World!
+Hello World! -- update
 
 This repository contains the code and hyperparameters for the paper:
 
